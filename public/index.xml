@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FKFs blog</title>
+    <link>https://example.org/</link>
+    <description>Recent content on FKFs blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Sep 2023 23:58:24 +0600</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gentoo users suck</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Thu, 14 Sep 2023 23:58:24 +0600</pubDate>
+      
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>INTRO well this is a rant about Gentoo users
+WHY why the fuck do you use gentoo it&amp;rsquo;s slow as fuck to compile and install software for diminishing performance gains.
+And don&amp;rsquo;t yap about customizability. you don&amp;rsquo;t use most of the &amp;ldquo;customizability&amp;rdquo; offered to you. And you don&amp;rsquo;t even need it.
+Also why do y&amp;rsquo;all have so few packages in your package manager?
+&amp;ldquo;But ackshualy you can compile from source after downloading the software&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>

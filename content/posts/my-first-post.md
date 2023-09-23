@@ -18,8 +18,12 @@ And don't yap about customizability. you don't use most of the "customizability"
 Also why do y'all have so few packages in your package manager?  
 "But ackshualy you can compile from source after downloading the software"   
 BITCH FUCK NO. There's no reason to have a package manager at all then. just make it install the kernel and libraries and nothing else.Compile everything else from source after cloning the github repositoy.  
-Even grandpa debian has more packages. Especially after the new version of it (finally) released  
-
+Even grandpa debian has more packages....WAYY more of them. Especially after the new version of it (finally) released  
+In fact  
+MOVE TO DEBIAN OR SOMETHING DAMMIT  
+OR ARCH  
+Stop being a brain dead retard who uses gentoo.  
+please come  back to the light side.. 
 
 
 ![reddest pandas](https://i.natgeofe.com/k/63b1a8a7-0081-493e-8b53-81d01261ab5d/red-panda-full-body_16x9.jpg?w=1200)
